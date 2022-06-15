@@ -1,4 +1,4 @@
-# kasper-
+# kasper
 
 Kasper Template redesign
 
